@@ -1,27 +1,17 @@
 # Java Trivia
 
-## Checked VS Unchecked Exceptions
+## ex1: returning -1 vs returning null
 
-## Exceptions
+## ex2: using a Map to store stats is error prone; use a class instead
+
+## ex3: use inheritance to create a class hierarchy where different types of players have different stats
+
+## ex4: TODO: Checked VS Unchecked Exceptions
 * Don't print when something goes wrong, throw an exception instead
 * return null vs throw an exception?
 
-## Return null VS throw exceptions
-* 
 
-## turning a hashmap into a class
+## Future Topics
+* gradle and build management
+* putting new projects onto Github
 
-## Testing with JUnit
-* 
-
-## complexity of API methods
-* 
-
-## gradle and build management
-* 
-
-## putting new projects onto Github
-* 
-
-## cloning projects from Github and getting them working
-* 
